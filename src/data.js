@@ -42,7 +42,7 @@ export const githubUsername = "PeterHinge";
 export const linkedInURL = "https://www.linkedin.com/in/peter-hinge-denmark";
 
 // Blog link icon (imported above)
-export const websiteURL = "https://www.peterhinge.com";
+export const websiteURL = "https://docs.google.com/presentation/d/103N4MJnaIeKy4P0aaYxM_4yuVHTyq-BH337qM_c_LB4/edit?usp=sharing";
 
 /* About Me
  **************************************************************
