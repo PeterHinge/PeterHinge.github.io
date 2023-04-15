@@ -29,6 +29,7 @@ export default function Skills() {
               );
             })}
           </Row>
+          {/*
           {resume && (
             <a href={resume}>
               <Button
@@ -40,6 +41,7 @@ export default function Skills() {
               </Button>
             </a>
           )}
+          */}
         </Container>
       </section>
     </Element>
