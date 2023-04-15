@@ -38,11 +38,11 @@ export { HeroDark as Dark };
 */
 export const githubUsername = "PeterHinge";
 
-// Add your LinkedIn URL (string - "YourURL") below.
+// Add your LinkedIn URL (string - "linkedInURL") below.
 export const linkedInURL = "https://www.linkedin.com/in/peter-hinge-denmark";
 
-// Blog link icon (imported above)
-export const websiteURL = "https://docs.google.com/presentation/d/103N4MJnaIeKy4P0aaYxM_4yuVHTyq-BH337qM_c_LB4/edit?usp=sharing";
+// Add your resume URL (string - "resumeURL") below.
+export const resumeURL = "https://docs.google.com/presentation/d/103N4MJnaIeKy4P0aaYxM_4yuVHTyq-BH337qM_c_LB4/edit?usp=sharing";
 
 /* About Me
  **************************************************************
@@ -120,8 +120,8 @@ export const skillData = [
   */
 ];
 
-// Resume link (string - "https://YourResumeUrl") - I am using CloudFront to share my resume (https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
-export const resume = "https://docs.google.com/presentation/d/103N4MJnaIeKy4P0aaYxM_4yuVHTyq-BH337qM_c_LB4/edit?usp=sharing";
+// Website link (string - "https://YourWebSiteUrl")
+export const webSiteURL = "https://www.peterhinge.com";
 
 /* Projects
  ************************************************************** 

@@ -3,7 +3,7 @@ import { useSelector } from "react-redux";
 import { selectData } from "../pages/homeSlice";
 import styled from "styled-components";
 // Data
-import { linkedInURL, websiteURL } from "../data";
+import { linkedInURL, resumeURL } from "../data";
 // Icons
 import { FaGithub, FaLinkedin, FaRegListAlt } from "react-icons/fa";
 
@@ -24,7 +24,7 @@ export default function SocialLinks() {
       <a href={linkedInURL} aria-label="Check out my LinkIn profile." className="link-icons">
         <FaLinkedin />
       </a>
-      <a href={websiteURL} aria-label="Check out my website." className="link-icons">
+      <a href={resumeURL} aria-label="Check out my website." className="link-icons">
        <FaRegListAlt />
       </a>
 

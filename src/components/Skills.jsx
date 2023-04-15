@@ -1,7 +1,7 @@
 import { useAppContext } from "../appContext";
 import { Element } from "react-scroll";
 // Data
-import { skillData, resume } from "../data";
+import { skillData, webSiteURL } from "../data";
 // Components
 import { Button, Col, Container, Row } from "react-bootstrap";
 import { Title } from "./globalStyledComponents";
@@ -28,20 +28,18 @@ export default function Skills() {
                 </Col>
               );
             })}
-          </Row>
-          {/*
-          {resume && (
-            <a href={resume}>
+          </Row>        
+          {webSiteURL && (
+            <a href={webSiteURL}>
               <Button
                 size="lg"
                 variant={theme === "light" ? "outline-dark" : "outline-light"}
                 className="mt-5"
               >
-                R&eacute;sum&eacute;
+                Old Site
               </Button>
             </a>
-          )}
-          */}
+          )}        
         </Container>
       </section>
     </Element>
