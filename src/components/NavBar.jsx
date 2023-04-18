@@ -86,6 +86,7 @@ export default function NavBar() {
                   Projects
                 </Link>
               </Nav.Item>
+              {/*
               <Nav.Item>
                 <Link
                   to={"Contact"}
@@ -97,6 +98,7 @@ export default function NavBar() {
                   Contact
                 </Link>
               </Nav.Item>
+              */}
             </Nav>
             <Nav>
               <ToggleSwitch />
