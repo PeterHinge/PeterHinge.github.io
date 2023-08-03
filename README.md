@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/peterhinge/PeterHinge.github.io/blob/main/LICENSE.md)
+[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/peterhinge/PeterHinge.github.io/blob/main/License.md)
 [![Contributors](https://img.shields.io/github/contributors/peterhinge/PeterHinge.github.io.svg)](https://github.com/peterhinge/PeterHinge.github.io/graphs/contributors)
 
 
